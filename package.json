@@ -1,7 +1,7 @@
 {
   "name": "todo-pa-ti",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple TODO API to use a support backend for practicing frontend technologies",
   "main": "index.js",
   "scripts": {
